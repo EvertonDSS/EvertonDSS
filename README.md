@@ -1,10 +1,9 @@
 - 👋 Olá, eu sou o @EvertonDSS
 - 👀 Eu tenho interesse em filmes, viagens, cultura pop e músicas. 
-- 🌱 Eu estou aprendendo JavaScript e as ferramentas para me tornar um excelente desenvolvedor web. 
-- 💞️ Em busca de projetos que utilizem JavaScript e PHP para colaborar e ao mesmo tempo me aperfeiçoar. 
 - 📫 LinkedIn@everton-david 
-- 
-
+<a href="https://www.linkedin.com/in/everton-david/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 <img src="https://github-readme-stats.vercel.app/api?username=EvertonDSS&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 <!---
 EvertonDSS/EvertonDSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
