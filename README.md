@@ -1,5 +1,5 @@
-- 👋 Olá, eu sou o @EvertonDSS
-- 👀 Eu tenho interesse em filmes, viagens, cultura pop e músicas. 
+- 👋 Olá, meu nome é Everton David de Souza Silva
+
 <a href="https://www.linkedin.com/in/everton-david/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
